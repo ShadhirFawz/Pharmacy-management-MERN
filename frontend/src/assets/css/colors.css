@@ -1,0 +1,45 @@
+:root {
+  --mint-geen: #067787;
+  --ligth-grey: #f5f5f5;
+  --dark-grey: #404040;
+  --red: #e50c0c;
+}
+
+.green-btn {
+  background-color: var(--mint-geen);
+  color: white;
+}
+
+.white-btn {
+  background-color: var(--ligth-grey);
+  color: red;
+}
+
+.grey-btn {
+  background-color: var(--ligth-grey);
+  color: var(--mint-geen);
+}
+
+.green-txt {
+  color: var(--mint-geen);
+}
+
+.red-txt {
+  color: var(--red);
+}
+
+.dark-grey-txt {
+  color: var(--dark-grey);
+}
+
+.err-active {
+  border-color: var(--red);
+}
+
+.bg-green {
+  background-color: #e1eff1;
+}
+
+.bg-grey {
+  background-color: var(--ligth-grey);
+}

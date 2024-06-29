@@ -1,0 +1,36 @@
+/*Table styles */
+:root {
+  --dark-grey: #404040;
+  --border-radius: 0.8em;
+}
+
+.table-striped > tbody > tr:nth-of-type(even) > *,
+.table-striped thead {
+  --bs-table-color-type: var(--dark-grey);
+  --bs-table-bg-type: var(--bs-table-striped-bg);
+  font-weight: 400;
+  vertical-align: middle;
+}
+.table-striped > tbody > tr:nth-of-type(odd) > * {
+  --bs-table-color-type: var(--dark-grey);
+  --bs-table-bg-type: white;
+  font-weight: 400;
+  vertical-align: middle;
+}
+
+.table-striped th {
+  --bs-table-color-type: black !important;
+  font-weight: 500 !important;
+}
+
+.table-striped tr {
+  border-color: transparent;
+}
+
+.case-table {
+  border-radius: var(--border-radius);
+  border-color: transparent;
+  overflow-x: auto;
+  text-wrap: nowrap;
+  vertical-align: middle;
+}
