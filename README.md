@@ -77,6 +77,42 @@ Install Dependencies in Frontend
 - Ckeckout with multiple products in cart
 - Give feedbacks for an existing product in Review page
 - Download Lab reports in PDF format
+
+## Screenshots
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.14.39%CE%93%C3%87%C2%BBPM.png)
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.15.57%CE%93%C3%87%C2%BBPM.png)
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.14.32%CE%93%C3%87%C2%BBPM.png)
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.11.42%CE%93%C3%87%C2%BBPM.png)
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.14.52%CE%93%C3%87%C2%BBPM.png)
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.15.49%CE%93%C3%87%C2%BBPM.png)
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.19.56%CE%93%C3%87%C2%BBPM.png)
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.33.57%CE%93%C3%87%C2%BBPM.png)
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.24.34%CE%93%C3%87%C2%BBPM.png)
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.15.39%CE%93%C3%87%C2%BBPM.png)
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.24.34%CE%93%C3%87%C2%BBPM.png)
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.20.19%CE%93%C3%87%C2%BBPM.png)
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.22.21%CE%93%C3%87%C2%BBPM.png)
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.22.14%CE%93%C3%87%C2%BBPM.png)
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.24.23%CE%93%C3%87%C2%BBPM.png)
+
+![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.11.00%CE%93%C3%87%C2%BBPM.png)
+
+
 ## Run Locally
 
 Clone the project
