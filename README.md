@@ -1,10 +1,10 @@
 
-# Pharmacy and Laboratory Management MERN Stack
+# Pharmacy and Laboratory Management MERN Stack 
 
 This project was made for the SLIIT Y2S2 ITP Project with collaboration of eight members. My function here is the Supplier Chain Management and also it comprises of another 7 functions in order to develop a successful and a complete project
 
 
-## Collaborators
+## Collaborators 🚶
 
 IT22237118 - Supplier Chain Management
 
@@ -21,7 +21,7 @@ IT22168818 - Feedback and Reviews
 IT22275356 - Payment and Invoice
 
 IT22284402 - Order Management
-## Installation
+## Installation ✅
 
 Create and .env file in Backend folder and include these,
 
@@ -43,15 +43,16 @@ Install Dependencies in Frontend
   npm Install
   npm start
 ```   
-## Technologies used
+## 🚀 Technologies used 🚀
 
- - [MongoDB](https://www.mongodb.com/)
- - [Express](https://expressjs.com/)
- - [React](https://react.dev/)
- - [Node Js](https://nodejs.org/en)
- - [MailGun](https://www.mailgun.com/)
- - [Npm](https://www.npmjs.com/)
-## Features
+ - 📱 [MongoDB](https://www.mongodb.com/)
+ - 📱 [Express](https://expressjs.com/)
+ - 📱 [React](https://react.dev/)
+ - 📱 [Node Js](https://nodejs.org/en)
+ - 📱 [MailGun](https://www.mailgun.com/)
+ - 📱 [Npm](https://www.npmjs.com/)
+
+## Features ⚡ 
 
 #### Admin Functions
 - Add another Admin
@@ -70,7 +71,7 @@ Install Dependencies in Frontend
 - Manage Own products (Complete CRUD)
 - Manage Personal/Company Details (CRUD Operation)
 
-#### Customer/User Functions
+#### Customer/User Functions 
 - Login/Signup using Credentials
 - Browse Categaries, Products and Brands
 - Add to cart function
@@ -78,7 +79,7 @@ Install Dependencies in Frontend
 - Give feedbacks for an existing product in Review page
 - Download Lab reports in PDF format
 
-## Screenshots
+## Screenshots  🌈 
 
 ![](https://github.com/ShadhirFawz/Pharmacy-management-MERN/blob/master/frontend/src/assets/images/Screenshot%202024-05-15%20at%207.14.39%CE%93%C3%87%C2%BBPM.png)
 
